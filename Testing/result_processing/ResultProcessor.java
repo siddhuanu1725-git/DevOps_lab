@@ -1,4 +1,4 @@
-package result_processing;
+package Testing.result_processing;
 public class ResultProcessor {
 
     public int total(int[] marks) {

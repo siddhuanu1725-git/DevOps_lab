@@ -1,4 +1,4 @@
-package result_processing;
+package Testing.result_processing;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 

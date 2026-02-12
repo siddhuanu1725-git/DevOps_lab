@@ -1,4 +1,4 @@
-package user_management;
+package Testing.user_management;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
