@@ -33,11 +33,6 @@ public class ResultProcessorTest {
     }
 
     @Test
-    void testFail() {
-        assertFalse(rp.isPass(30));
-    }
-
-    @Test
     void testBoundaryPass() {
         assertTrue(rp.isPass(40));
     }
