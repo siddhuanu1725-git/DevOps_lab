@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Testing.result_processing.ResultProcessorTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 s -- in Testing.result_processing.ResultProcessorTest

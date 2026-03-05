@@ -1,7 +1,9 @@
-package Testing.user_management;
+package user_management;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
+import siddhimaven.UserManager;
 
 import static org.junit.jupiter.api.Assertions.*;
 

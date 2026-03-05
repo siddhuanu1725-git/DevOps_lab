@@ -1,6 +1,9 @@
-package Testing.reporting;
+package reporting;
 
 import org.junit.jupiter.api.*;
+
+import siddhimaven.ReportService;
+
 import static org.junit.jupiter.api.Assertions.*;
 import java.util.*;
 
